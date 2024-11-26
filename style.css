@@ -1,0 +1,39 @@
+div{
+    background-color: rgb(172, 172, 35);
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 25px;
+}
+input[type=text],select{
+border: 2px solid black;
+box-sizing: border-box;
+display:inline-block;
+width: 100%;
+padding: 13px 22px;
+}
+.title{
+    background-color: rgb(105, 89, 89);
+    color: white;
+    text-align: center;
+    font-family: serif;
+    font-size: 150%;
+}
+.form{
+    background-color: rgb(206, 206, 111);
+}
+.input{
+border: 2px solid black;
+box-sizing: border-box;
+display:inline-block;
+width: 100%;
+padding: 13px 22px;
+}
+button{
+    text-align: center;
+    padding: 13px 22px;
+    width: 100%;
+}
+button :hover{
+    background-color: white;
+    color: black;
+}
